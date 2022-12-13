@@ -31,3 +31,9 @@ Enter the option number and hit <ENTER>
 ```
 
 Follow the instructions displayed on the screen.
+
+## Notes
+
+> There’s a mistake in the example. Please find it.
+
+The order of documents returned for the example "fox" query is wrong. Should they be sorted according to their respective tf*idf scoring, the correct order is `[3, 1]`.
