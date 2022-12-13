@@ -1,0 +1,11 @@
+/home/max/Projects/simple-search-engine/src/main/java/com/findwise/simplesearchengine/SimpleSearchEngineApp.java
+/home/max/Projects/simple-search-engine/src/main/java/com/findwise/simplesearchengine/engine/Document.java
+/home/max/Projects/simple-search-engine/src/main/java/com/findwise/simplesearchengine/engine/scoring/tf/TFCalculator.java
+/home/max/Projects/simple-search-engine/src/main/java/com/findwise/simplesearchengine/engine/scoring/tf/RawCountTFCalculator.java
+/home/max/Projects/simple-search-engine/src/main/java/com/findwise/simplesearchengine/engine/scoring/idf/RawCountIDFCalculator.java
+/home/max/Projects/simple-search-engine/src/main/java/com/findwise/simplesearchengine/engine/IndexEntryImpl.java
+/home/max/Projects/simple-search-engine/src/main/java/com/findwise/simplesearchengine/engine/scoring/idf/IDFCalculator.java
+/home/max/Projects/simple-search-engine/src/main/java/com/findwise/IndexEntry.java
+/home/max/Projects/simple-search-engine/src/main/java/com/findwise/simplesearchengine/engine/SearchEngineImpl.java
+/home/max/Projects/simple-search-engine/src/main/java/com/findwise/simplesearchengine/engine/Tokenizer.java
+/home/max/Projects/simple-search-engine/src/main/java/com/findwise/SearchEngine.java
